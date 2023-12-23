@@ -1,0 +1,10 @@
+.item {
+    min-width: 200px;
+    max-width: 250px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #cecece;
+    border-radius: 8px;
+}
